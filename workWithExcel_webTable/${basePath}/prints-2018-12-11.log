@@ -1,0 +1,7 @@
+15:59:36.344 [main] DEBUG com.zoho.zohoTest - Writing Employee Phone-6023393200
+15:59:36.470 [main] DEBUG com.zoho.zohoTest - Writing Employee Salary-150000
+15:59:36.612 [main] DEBUG com.zoho.zohoTest - Writing Employee ID-2172
+15:59:36.773 [main] DEBUG com.zoho.zohoTest - Writing Employee Name-Amine, Ayad
+15:59:36.954 [main] DEBUG com.zoho.zohoTest - Writing Employee Email-amine.ayad@hotmail.com
+15:59:37.046 [main] DEBUG com.zoho.zohoTest - Writing Employee Phone-5714842237
+15:59:37.140 [main] DEBUG com.zoho.zohoTest - Writing Employee Salary-100000

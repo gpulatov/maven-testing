@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58265" started-at="2018-12-11T21:52:40Z" finished-at="2018-12-11T21:53:39Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58265" started-at="2018-12-11T21:52:40Z" finished-at="2018-12-11T21:53:39Z">
+      <class name="com.zoho.zohoTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.zoho.zohoTest@12299890]" name="setUp" is-config="true" duration-ms="11985" started-at="2018-12-11T21:52:40Z" finished-at="2018-12-11T21:52:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="printExcel()[pri:0, instance:com.zoho.zohoTest@12299890]" name="printExcel" duration-ms="44228" started-at="2018-12-11T21:52:52Z" finished-at="2018-12-11T21:53:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printExcel -->
+        <test-method status="PASS" signature="closeUp()[pri:0, instance:com.zoho.zohoTest@12299890]" name="closeUp" is-config="true" duration-ms="2015" started-at="2018-12-11T21:53:37Z" finished-at="2018-12-11T21:53:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeUp -->
+      </class> <!-- com.zoho.zohoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
